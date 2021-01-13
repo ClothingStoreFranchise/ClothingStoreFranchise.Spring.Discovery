@@ -1,2 +1,2 @@
-# ClothingStoreFranchise.Spring.Discovery
+# ClothingStoreFranchise: Service Discovery
 Service discovery with Eureka Server.
